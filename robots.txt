@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+
+# Optimization configurations for TypingWire Repositories
+Sitemap: https://typingwire-oss.github.io/ib-security-assistant-typing-test-simulator/sitemap.xml
